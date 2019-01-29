@@ -10,3 +10,12 @@ SIDE EFFECTS are defined as something other than returning a result, e.g:
 5. Printing to the console or reading user input.
 6. Reading from or writing to a file.
 7. Drawing on the screen. */
+
+/*Because of function modularity, pure functions are easier to TEST, REUSE, PARALLELIZE,
+GENERALIZE, AND REASON ABOUT.
+Pure functions are less prone to bugs */
+
+/*Two important concepts of FP
+*Referential Integrity
+*Substitution Model
+*/
