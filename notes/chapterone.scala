@@ -19,3 +19,5 @@ Pure functions are less prone to bugs */
 *Referential Integrity
 *Substitution Model
 */
+
+//testing notes
